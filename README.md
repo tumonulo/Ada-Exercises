@@ -1,5 +1,5 @@
-# Ada Exercises
+# Ejercicios de Ada
 
-A collection of exercises developed while learning Ada during my first year of university.
+Colección de ejercicios realizados durante el aprendizaje del lenguaje Ada en primero de Ingeniería Informática.
 
-These exercises cover the fundamentals of the language and are part of my ongoing practice with Ada.
+Los ejercicios están enfocados en practicar los fundamentos del lenguaje y familiarizarme con su sintaxis, tipado y estructura.
